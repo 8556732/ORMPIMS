@@ -4,6 +4,6 @@ Python AWI modules for Techlog 2018 that accompany the publication "A workflow f
 
 "KPM-3&5 State.py" is a python 3.x function for reproducing the Kerogen Properties Model (KPM)
 
-Pritchard, T., Blacker, K.J., Khurram, T., Davies, S., - “A workflow for the formation evaluation of organic rich mudstones accounting for physical property changes in organic matter as a function of thermal maturity” - Marine and Petroleum Geology (submitted)
+Pritchard, T., Blacker, K.J., Khurram, T., Davies, S., - “A workflow for the formation evaluation of organic rich mudstones accounting for physical property changes in organic matter as a function of thermal maturity” - Marine and Petroleum Geology (In review)
 
 [![DOI](https://zenodo.org/badge/308649948.svg)](https://zenodo.org/badge/latestdoi/308649948)
